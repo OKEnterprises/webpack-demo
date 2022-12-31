@@ -1,12 +1,12 @@
 @font-face {
     font-family: 'Roboto';
-    src: url('./Roboto-Regular.ttf') format('ttf');
+    src: url('./Roboto-Regular.ttf');
     font-weight: 600;
     font-style: normal;
 }
 
 .hello {
     color: red;
-    background: url('./icon.jpg');
     font-family: 'Roboto';
+    background: url('./phone.png');
 }
